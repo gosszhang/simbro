@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "simbro",
-    "slug": "snack-68e85833-e267-4438-abbd-d27a499afdc6",
+    "slug": "simbro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,8 +32,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "2bf1ee76-db2e-4174-8469-18340d03910a"
+        "projectId": "671078bc-c8c9-4597-904c-dde3852feb32"
       }
-    }
+    },
+    "owner": "goss"
   }
 }
